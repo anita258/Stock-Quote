@@ -42,16 +42,8 @@ It displays live prices, market overview, stock details, and supports a personal
 | Framework | Flutter |
 | State Management | GetX |
 | Local Storage | GetStorage |
-| API | Alpha Vantage |
 | HTTP Client | Dio |
 | Charting | Syncfusion Flutter Charts |
 | Testing | flutter_test |
 
 ---
-
-## ⚙️ Setup
-
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/yourusername/stock_quote.git
-   cd stock_quote
